@@ -662,7 +662,7 @@ angular.module('isoCurrency.common', [])
 			},
 			'RSD': {
 				text: 'Serbian Dinar',
-				fraction: 2,
+				fraction: 0,
 				symbol: 'din'
 			},
 			'SCR': {
